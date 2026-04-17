@@ -29,7 +29,7 @@ export default function Navbar() {
     featuresSection?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
   return (
-    <nav className="lg:flex-row bg-gradient-to-t from-white to-yellow-400 flex flex-col items-center justify-between py-16 px-36">
+    <nav className="lg:flex-row bg-gradient-to-t from-white to-blue-400 flex flex-col items-center justify-between py-16 px-36">
       <span className="flex gap-2 justify-start">
         <Image
           alt="logo"

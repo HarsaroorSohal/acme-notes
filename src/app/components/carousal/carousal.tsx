@@ -8,7 +8,7 @@ const Carousal = () => {
       className={` w-full flex flex-col justify-center items-center gap-8 bg-yellow-500 p-8`}
     >
       <h4 className="sm:text-l md:text-xl lg:text-2xl">
-        <p>Over 30,000 innovative product teams trust Acme Notes</p>
+        <p>Over 30,000 innovative product teams trust Jolly Notes</p>
       </h4>
       <Image
         className={`${styles["scroll-animation"]}`}

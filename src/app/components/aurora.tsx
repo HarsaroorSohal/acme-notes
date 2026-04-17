@@ -20,7 +20,7 @@ export default function Aurora() {
         className="relative flex flex-col gap-4 items-center justify-center px-4"
       >
         <div className="text-3xl md:text-7xl font-bold dark:text-white text-center">
-          Acme Notes.
+          Jolly Notes.
         </div>
         <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
           Tame your work, organize your life.

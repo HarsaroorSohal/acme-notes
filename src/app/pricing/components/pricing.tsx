@@ -23,7 +23,7 @@ const Pricing = () => {
             </p>
 
             <a
-              className="mt-4 block rounded bg-yellow-400 px-12 py-3 text-center text-sm font-medium text-white hover:bg-yellow-500 focus:outline-none focus:ring sm:mt-6"
+              className="mt-4 block rounded bg-blue-400 px-12 py-3 text-center text-sm font-medium text-white hover:bg-blue-500 focus:outline-none focus:ring sm:mt-6"
               href="#"
             >
               Get Started
@@ -70,7 +70,7 @@ const Pricing = () => {
                   />
                 </svg>
 
-                <span className="text-gray-700"> 2GB of storage </span>
+                <span className="text-grwy-700"> 2GB of storage </span>
               </li>
 
               <li className="flex items-center gap-1">
