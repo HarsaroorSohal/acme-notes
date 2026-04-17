@@ -314,7 +314,7 @@ const Footer = () => {
         </div>
 
         <p className="text-xs text-gray-500">
-          &copy; 2024. Acme Notes. All rights reserved.
+          &copy; 2024. Jolly Notes. All rights reserved.
         </p>
       </div>
     </footer>

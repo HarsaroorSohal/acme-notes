@@ -8,8 +8,8 @@ const typeWriterInput = [
     className: "font-thin",
   },
   {
-    text: "Acme Notes.",
-    className: "font-semibold text-yellow-500",
+    text: "Jolly Notes.",
+    className: "font-semibold text-blue-500",
   },
 ];
 
@@ -30,7 +30,7 @@ export default function Header() {
               Tame your work, organize your life.
             </p>
             <Link
-              className=" w-[25rem] border-2 border-black bo flex h-10 items-center justify-center rounded-lg bg-gradient-to-b from-yellow-200 to-yellow-400 hover:bg-yellow-500 px-20 mt-6 py-8 text-xl transition-colors"
+              className=" w-[25rem] border-2 border-black bo flex h-10 items-center justify-center rounded-lg bg-gradient-to-b from-blue-200 to-blue-400 hover:bg-blue-500 px-20 mt-6 py-8 text-xl transition-colors"
               href="https://www.linkedin.com/in/harsaroor/"
             >
               Try for Free!

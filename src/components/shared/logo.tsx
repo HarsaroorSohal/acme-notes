@@ -6,8 +6,8 @@ export default function Logo() {
       href={"/"}
       className="text-5xl font-bold text-black transition ease-out hover:text-black-700"
     >
-      AcmeNotes
-      <span className="text-yellow-400">.</span>
+      SaeeNotes
+      <span className="text-blue-400">.</span>
     </Link>
   );
 }

@@ -1,6 +1,6 @@
 # Overview
 
-Acme Notes is a powerful note-taking application designed to help users organize their thoughts, ideas, and tasks effectively.
+Jolly Notes is a powerful note-taking application designed to help users organize their thoughts, ideas, and tasks effectively.
 
 Deployment Link: https://acme-notes-azure.vercel.app/
 

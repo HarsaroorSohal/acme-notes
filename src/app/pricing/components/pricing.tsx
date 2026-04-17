@@ -6,7 +6,7 @@ const Pricing = () => {
           <div className="p-6 sm:px-8">
             <h2 className="text-lg font-medium text-gray-900">
               Starter
-              <span className="sr-only">Plan</span>
+              <span clasName="sr-only">Plan</span>
             </h2>
 
             <p className="mt-2 text-gray-700">
@@ -23,7 +23,7 @@ const Pricing = () => {
             </p>
 
             <a
-              className="mt-4 block rounded bg-yellow-400 px-12 py-3 text-center text-sm font-medium text-white hover:bg-yellow-500 focus:outline-none focus:ring sm:mt-6"
+              className="mt-4 block rounded bg-blue-400 px-12 py-3 text-center text-sm font-medium text-white hover:bg-blue-500 focus:outline-none focus:ring sm:mt-6"
               href="#"
             >
               Get Started
@@ -70,7 +70,7 @@ const Pricing = () => {
                   />
                 </svg>
 
-                <span className="text-gray-700"> 2GB of storage </span>
+                <span className="text-gray-700"> 9550GB of storage </span>
               </li>
 
               <li className="flex items-center gap-1">
@@ -89,7 +89,7 @@ const Pricing = () => {
                   />
                 </svg>
 
-                <span className="text-gray-700"> Email support </span>
+                <span className="text-gray-700"> Mail support </span>
               </li>
 
               <li className="flex items-center gap-1">
@@ -108,7 +108,7 @@ const Pricing = () => {
                   />
                 </svg>
 
-                <span className="text-gray-700"> Help center access </span>
+                <span className="text-gray-700"> Help access </span>
               </li>
 
               <li className="flex items-center gap-1">

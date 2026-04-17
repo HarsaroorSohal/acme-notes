@@ -6,7 +6,7 @@ const reviewersData = [
     name: "Harsaroor Sohal",
     position: "CTO - Junglee Games",
     imageUrl:
-      "https://media.licdn.com/dms/image/D5603AQGZ3nTLv3WcHA/profile-displayphoto-shrink_400_400/0/1668705536041?e=1717632000&v=beta&t=hli6rPRGYd_BYI4UzEA74opu73v3G-VS8PVxCHO9SFI",
+      "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=1180&q=80",
     rating: 5,
     review:
       "Acme Notes has been a game-changer for me! Its intuitive interface and powerful features make it easy for me to jot down ideas, collaborate with clients, and keep track of deadlines. Highly recommended!",
@@ -15,7 +15,7 @@ const reviewersData = [
     name: "Saee Abhyankar",
     position: "CPO - Builder.io",
     imageUrl:
-      "https://media.licdn.com/dms/image/C4D03AQFu3l9BjncPuw/profile-displayphoto-shrink_400_400/0/1523046183817?e=1717632000&v=beta&t=gaOrnj6cNWEohcTeC39_RkjKtOBQJRTqQUn6Gnp1Oz0",
+      "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1180&q=80",
     rating: 5,
     review:
       "I've tried several note-taking apps in the past, but Acme Notes stands out for its simplicity and effectiveness. Whether I'm in a meeting, brainstorming ideas, or jotting down reminders, Acme Notes makes the process seamless. It's become an essential tool in my daily workflow!",

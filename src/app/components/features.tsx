@@ -49,11 +49,11 @@ export default function Features() {
       <div className="container space-y-12 px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
           <div className="space-y-1">
-            <h2 className="text-3xl text-yellow-500 font-bold tracking-tighter md:text-5xl pb-4">
+            <h2 className="text-3xl text-blue-500 font-bold tracking-tighter md:text-5xl pb-4">
               Capture. Organize. Share.
             </h2>
             <p className="max-w-[900px] text-black-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              Acme Notes is designed to help you take better notes. From
+              Jolly Notes is designed to help you take better notes. From
               capturing your thoughts to organizing your ideas, it is a tool for
               students, professionals, and anyone who wants to be more
               productive.
@@ -65,8 +65,8 @@ export default function Features() {
             const featureInfo = (
               <div key={index} className="flex flex-col gap-2 ">
                 <div className="font-semibold flex justify-start gap-4 items-center">
-                  {feature.icon("h-12 w-12 text-yellow-500")}
-                  <h3 className="sm:text-l md:text-2xl lg:text-3xl text-yellow-500 font-semibold">
+                  {feature.icon("h-12 w-12 text-blue-500")}
+                  <h3 className="sm:text-l md:text-2xl lg:text-3xl text-blue-500 font-semibold">
                     {feature.heading}
                   </h3>
                 </div>

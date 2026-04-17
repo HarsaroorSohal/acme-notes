@@ -14,48 +14,48 @@ const FAQStructuedData = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is Acme Notes?",
+      name: "What is Jolly Notes?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Acme Notes is a note-taking tool designed to help users capture and organize their thoughts, ideas, and information effectively.",
+        text: "Jolly Notes is a note-taking tool designed to help users capture and organize their thoughts, ideas, and information effectively.",
       },
     },
     {
       "@type": "Question",
-      name: "How can I use Acme Notes?",
+      name: "How can I use Jolly Notes?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "You can use Acme Notes to create, edit, and organize your notes. It offers features such as text formatting, multimedia support, categorization, and sharing options.",
+        text: "You can use Jolly Notes to create, edit, and organize your notes. It offers features such as text formatting, multimedia support, categorization, and sharing options.",
       },
     },
     {
       "@type": "Question",
-      name: "Is Acme Notes available on mobile devices?",
+      name: "Is Jolly Notes available on mobile devices?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, Acme Notes is available on both iOS and Android devices. You can download the mobile app from the App Store or Google Play Store.",
+        text: "Yes, Jolly Notes is available on both iOS and Android devices. You can download the mobile app from the App Store or Google Play Store.",
       },
     },
     {
       "@type": "Question",
-      name: "Does Acme Notes offer cloud synchronization?",
+      name: "Does Jolly Notes offer cloud synchronization?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, Acme Notes offers cloud synchronization, allowing you to access your notes from anywhere and sync them across multiple devices.",
+        text: "Yes, Jolly Notes offers cloud synchronization, allowing you to access your notes from anywhere and sync them across multiple devices.",
       },
     },
     {
       "@type": "Question",
-      name: "Is there a free trial available for Acme Notes?",
+      name: "Is there a free trial available for Jolly Notes?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, Acme Notes offers a free trial period for new users. You can sign up for a free account and explore the features before deciding to subscribe.",
+        text: "Yes, Jolly Notes offers a free trial period for new users. You can sign up for a free account and explore the features before deciding to subscribe.",
       },
     },
   ],
 };
 export const metadata: Metadata = {
-  title: "Acme Notes",
+  title: "Jolly Notes",
   description: "Tame your work, organize your life",
 };
 
